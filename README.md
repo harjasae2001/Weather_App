@@ -76,4 +76,4 @@ If you'd like to contribute to the project, follow these steps:
 
 ## Contact
 
-If you have any questions, suggestions, or need assistance, please contact [harjasae2001@gmail.com.com].
+If you have any questions, suggestions, or need assistance, please contact [harjasae2001@gmail.com].
